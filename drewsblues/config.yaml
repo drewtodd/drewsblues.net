@@ -1,0 +1,6 @@
+baseUR: "https://example.org/"
+languageCode: "en-us"
+title: "drewsblues.net :: blues, guitars, and stuff"
+theme: "bones"
+frontmatter:
+  format: yaml
